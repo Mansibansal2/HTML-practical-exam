@@ -1,0 +1,24 @@
+<html>
+ <head>
+  <title> Q1 </title>
+</head>
+<body>
+<table cellpadding="12" cellspacing="12" style="width:80%" align="center" valign="center" border="1">
+<tr>
+  <td colspan="2">A</td>
+  <td>B</td>
+  <td>C</td>
+</tr>
+<tr>
+  <td>D</td>
+  <td colspan="2">E</td>
+  <td>F</td>
+</tr>
+<tr>
+  <td>G</td>
+  <td>H</td>
+  <td colspan="2"><img src="https://media.istockphoto.com/photos/hes-a-diligent-worker-picture-id1136807674" width="200" height="80"></td>
+</tr>
+</table>
+</body>
+</html>
